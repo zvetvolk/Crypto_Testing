@@ -1,9 +1,9 @@
 # Crypto_Testing
-# 🔐 Sistema de Gestión y Búsqueda de Hashes
+# Sistema de Gestión y Búsqueda de Hashes
 
 Un programa educativo en Python para gestionar contraseñas, generar hashes SHA-256 y realizar búsquedas inversas.
 
-## 🚀 Características
+## Características
 
 - Generación de contraseñas comunes y aleatorias
 - Cálculo de hashes SHA-256
@@ -11,7 +11,7 @@ Un programa educativo en Python para gestionar contraseñas, generar hashes SHA-
 - Gestión automática de archivos
 - Interfaz de menú interactivo
 
-## 📦 Instalación
+## Instalación
 
 1. Clona el repositorio:
 ```bash
