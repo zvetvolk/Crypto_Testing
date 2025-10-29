@@ -11,6 +11,11 @@ Un programa educativo en Python para gestionar contraseñas, generar hashes SHA-
 - Gestión automática de archivos
 - Interfaz de menú interactivo
 
+## Screenshots
+<img width="1345" height="613" alt="image" src="https://github.com/user-attachments/assets/7ed776ba-b4d4-4dba-aac8-d2b694beadec" />
+
+<img width="1163" height="944" alt="image" src="https://github.com/user-attachments/assets/e5accd47-98d1-4162-b848-a576dd660d61" />
+
 ## Instalación
 
 1. Clona el repositorio:
